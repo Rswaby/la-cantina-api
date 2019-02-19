@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LinkupApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LinkupApplication.class, args);
+
+	    SpringApplication.run(LinkupApplication.class, args);
 	}
 
 }
